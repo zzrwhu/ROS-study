@@ -1,0 +1,16 @@
+89-685: Introduction to Robotics Fall 2016
+Mr. Roi Yehoshua  Email: roiyeho@gmail.com
+Lecture 1
+  Q: continous linear command
+Lecture 2
+2.1 catkin
+    the ROS build system
+    catkin workspace: only can work in one at any one time
+    ROS Development Setup:
+    (1) Create a new catkin workspace
+    (2) Create a new ROS package
+    (3) Download and configure Eclipse
+    (4) Create Eclipse project file for your package
+    (5) Import package into Eclipse
+    (6) Write the code
+    (7) Update 
